@@ -24,7 +24,7 @@ docs/site/
 Manifest.toml
 
 # Mac OS X
-.DS_Store
+*.DS_Store
 
 # JLD2 output
-.jld2
+*.jld2
